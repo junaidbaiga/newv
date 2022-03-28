@@ -81,7 +81,7 @@ export function ShowSharingDialog (fileList, settings, camera)
             embeddingCode += '<iframe';
             embeddingCode += ' width="640" height="480"';
             embeddingCode += ' style="border:1px solid #eeeeee;"';
-            embeddingCode += ' src="https://3dviewer.net/embed.html#' + hashParameters + '">';
+            embeddingCode += ' src="https://junaidbaiga.github.io/newv/embed.html#' + hashParameters + '">';
             embeddingCode += '</iframe>';
             return embeddingCode;
         }
